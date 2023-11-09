@@ -4,6 +4,7 @@ import "./NavBar.css";
 function NavBar() {
   return (
     <nav>
+      <p><small>Hello, World!</small></p>
       <NavLink
         to="/"
         className="nav-link"
